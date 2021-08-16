@@ -15,9 +15,7 @@
 }
 
 body {
-    height: 100vh;
-
-    min-width: 400px;
+    
     color: var(--black);
 }
 
